@@ -1,4 +1,4 @@
-# Live-Agile-Artificial-Neural-Network-Programming-Session
+# Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions, for reasonably rapid data science preparation.
 
 
