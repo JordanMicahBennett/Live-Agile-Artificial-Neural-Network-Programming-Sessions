@@ -14,4 +14,4 @@ Since artificial neural networks can represent a wide variety of utilities as se
 1.	Most basic Neural network programming in detail (in BlueJ or any IDE of choice. BlueJ is good for quickly visualizing how classes connect, as coding takes place.)
 2.	Data preprocessing.
 
-![Alt text](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Session/blob/main/cover_b.png?raw=true "default page")
+![Alt text](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Session/blob/main/cover_c.png?raw=true "default page")
