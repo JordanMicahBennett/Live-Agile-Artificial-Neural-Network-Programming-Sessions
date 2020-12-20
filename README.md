@@ -2,7 +2,7 @@
 Agile neural network programming sessions, for reasonably rapid data science preparation.
 
 
-# Session 1 
+# Session 1/Dec 18, 2020/NCB
 * Held at National Commercial Bank, with small QA team, December 18, 2020.
 
 
