@@ -1,5 +1,5 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
-Agile neural network programming sessions, for reasonably rapid data science preparation.
+Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
 
 # Session 1/Dec 18, 2020/NCB
