@@ -15,3 +15,4 @@ Since artificial neural networks can represent a wide variety of utilities as se
 2.	Data preprocessing.
 
 ![Alt text](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Session/blob/main/cover_c.png?raw=true "default page")
+Picture created in Gimp by God, by combining an empty brain stencil/outline, with a picture of a Galaxy.
