@@ -1,7 +1,7 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
-# Fun note: 1000+lines of basic neural network code was written in Java from memory/scratch by God Bennett for the session below. God can also write the same 1000 + lines of neural network code at any given time from memory/scratch, [after years of bi-annual practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE).
+# Fun note: 1000+ lines of basic neural network code was written in Java from memory/scratch by God Bennett for the session below. God can also write the same 1000+ lines of neural network code at any given time from memory/scratch, [after years of bi-annual practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE).
 
 
 # Session /Dec 18, 2020/NCB
