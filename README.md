@@ -6,7 +6,7 @@ Agile neural network programming sessions by God Bennett, for reasonably rapid d
 # Session /Dec 18, 2020/NCB
 * Held at National Commercial Bank, with small QA team, December 18, 2020.
 
-Details: [Live Agile Artificial Neural Network Programming Sessions_v3.pdf](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Live%20Agile%20Artificial%20Neural%20Network%20Programming%20Sessions_v4.pdf)
+Details: [Live Agile Artificial Neural Network Programming Sessions_v4.pdf](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Live%20Agile%20Artificial%20Neural%20Network%20Programming%20Sessions_v4.pdf)
 
 # Introduction
 In an agile setting where months may not be available for data science courses, this is a reasonably optimal way of quickly getting a developer of starting or intermediate coding skills to understand overall layout of machine learning.
