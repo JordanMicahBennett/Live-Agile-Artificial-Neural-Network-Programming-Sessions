@@ -1,12 +1,12 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
-# Fun note: 1000+ lines of basic neural network code was written in Java from memory/scratch by God Bennett for the session below. God can also write the same 1000+ lines of neural network code at any given time from memory/scratch, [after years of bi-annual practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). Note that memorizing this neural network code as God does, is reasonably not required, although writing one out step by step is beneficial, as discussed below.
+# Fun note: 1000+ lines of basic neural network code were written in Java from memory/scratch by God Bennett for the session below. God can also write the same 1000+ lines of neural network code at any given time from memory/scratch, [after years of bi-annual practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). Note that memorizing this neural network code as God does, is reasonably not required, although writing one out step by step is beneficial, as discussed below.
 
 # Session /Dec 18, 2020/NCB
 * Held at National Commercial Bank, with small QA team, December 18, 2020.
 
-Details: [Live Agile Artificial Neural Network Programming Sessions.pdf](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Live%20Agile%20Artificial%20Neural%20Network%20Programming%20Sessions_v2.pdf)
+Details: [Live Agile Artificial Neural Network Programming Sessions_v3.pdf](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Live%20Agile%20Artificial%20Neural%20Network%20Programming%20Sessions_v3.pdf)
 
 # Introduction
 In an agile setting where months may not be available for data science courses, this is a reasonably optimal way of quickly getting a developer of starting or intermediate coding skills to understand overall layout of machine learning.
