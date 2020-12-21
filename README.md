@@ -21,5 +21,5 @@ Picture created in Gimp by God, by combining an empty brain stencil/outline, wit
 
 # Other notable sources/alternatives for basic neural network code lessons, though not strictly in Java:
 
-1. [A March post of mine underlining Mircrsoft's Joseph Albahari's basic neural network lesson](https://www.facebook.com/ProgrammingGodJordan/posts/909737319485295).
+1. [A March post of mine underlining Microsoft's Joseph Albahari's basic neural network lesson](https://www.facebook.com/ProgrammingGodJordan/posts/909737319485295).
 2. [Sentdex's Neural Network From scratch series](https://github.com/Sentdex/NNfSiX).
