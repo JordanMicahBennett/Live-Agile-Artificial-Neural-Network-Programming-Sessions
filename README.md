@@ -6,7 +6,17 @@ Agile neural network programming sessions by God Bennett, for reasonably rapid d
 # Session /Dec 18, 2020/NCB
 * Held at National Commercial Bank, with small QA team, December 18, 2020.
 
-Details: 
+# [Artificial General Intelligence (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence), also known as human level AI, is known as [humanity's last big invention](https://youtu.be/9snY7lhJA4c).
+
+* [Artificial General Intelligence (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence), also known as human level AI, is known as [humanity's last big inventionn](https://youtu.be/9snY7lhJA4c), according to AI/AGI experts including winner of [2018 Turing award](https://amturing.acm.org/award_winners/bengio_3406375.cfm) (similar to nobel prize but for computer science)  [Professor Yoshua Bengio](https://www.youtube.com/watch?v=IU9cQ1JdC7Y), as well as Dr Ben Goertzel, and other AGI experts including Eray Ozkural.
+
+* [Google, Microsoft, as well as many major powers, are racing towards building AGI](https://link.springer.com/article/10.1007/s00146-019-00887-x).
+
+* Some of the world's smartest people have changed their careers/focus from physics to focus on Artificial General Intelligence/Ai research, including world renknowned physicist Prof Max Tegmark](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), famous quantum engineer [Dr. Suzanne Gildert](https://www.kindred.ai/),  etc, and even chip makers have been leaving behind the old Von Neumann architecture in computing for a while now, with more focus on parallelizable frameworks, like tpus, vpus, and neuromorphic chips.
+
+
+
+# Details: 
 
 a. [Live Agile Artificial Neural Network Programming Sessions_v5.pdf](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Live%20Agile%20Artificial%20Neural%20Network%20Programming%20Sessions_v5.pdf)
 
