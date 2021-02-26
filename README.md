@@ -3,8 +3,6 @@ Agile neural network programming sessions by God Bennett, for reasonably rapid d
 
 # Fun note: 1000+ lines of basic neural network code were written in Java from memory/scratch by God Bennett for the session below. God can also write the same 1000+ lines of neural network code at any given time from memory/scratch, [after years of bi-annual practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). Note that memorizing this neural network code as God does, is reasonably not required, although writing one out step by step is beneficial, as discussed below.
 
-# Session /Dec 18, 2020/NCB
-* Held at National Commercial Bank, with small QA team, December 18, 2020.
 
 # [Artificial General Intelligence (AGI)](https://en.wikipedia.org/wiki/Artificial_general_intelligence), also known as human level AI, is known as [humanity's last big invention](https://youtu.be/9snY7lhJA4c).
 
@@ -14,6 +12,12 @@ Agile neural network programming sessions by God Bennett, for reasonably rapid d
 2. [Google, Microsoft, as well as many major powers, are racing towards building AGI](https://link.springer.com/article/10.1007/s00146-019-00887-x).
 
 3. [Some of the world's smartest people have changed their careers/focus from physics to focus on Artificial General Intelligence/Ai research](https://godquestbennett.medium.com/some-of-the-worlds-smartest-people-have-changed-their-careers-focus-from-physics-to-focus-on-4461aee6506d), including world renknowned physicist Prof Max Tegmark](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), famous quantum engineer [Dr. Suzanne Gildert](https://www.kindred.ai/), etc, and even chip makers have been leaving behind the old Von Neumann architecture in computing for a while now, with more focus on parallelizable frameworks, like tpus, vpus, and neuromorphic chips.
+
+This session aims to equip the programmer with fundamental artificial neural network programming skills. Neural networks (embedded inthe goal of AGI research) are [universal function approximators aka universal tools](https://en.wikipedia.org/wiki/Universal_approximation_theorem) that can approximate a wide variety of tasks, somewhat similar to how 1 human brain or natural neural network can do driving, teaching, nursing etc, reading, writing etc.
+
+
+# Session /Dec 18, 2020/NCB
+* Held at National Commercial Bank, with small QA team, December 18, 2020.
 
 
 
