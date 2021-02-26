@@ -13,7 +13,9 @@ Agile neural network programming sessions by God Bennett, for reasonably rapid d
 
 3. [Some of the world's smartest people have changed their careers/focus from physics to focus on Artificial General Intelligence/Ai research](https://godquestbennett.medium.com/some-of-the-worlds-smartest-people-have-changed-their-careers-focus-from-physics-to-focus-on-4461aee6506d), including world renknowned physicist [Prof Max Tegmark](https://news.mit.edu/2020/nsf-announces-mit-led-institute-artificial-intelligence-fundamental-interactions-0826), famous quantum engineer [Dr. Suzanne Gildert](https://www.kindred.ai/), etc, and even chip makers have been leaving behind the old Von Neumann architecture in computing for a while now, with more focus on parallelizable frameworks, like tpus, vpus, and neuromorphic chips.
 
-This session aims to equip the programmer with fundamental artificial neural network programming skills. Neural networks (embedded inthe goal of AGI research) are [universal function approximators aka universal tools](https://en.wikipedia.org/wiki/Universal_approximation_theorem) that can approximate a wide variety of tasks, somewhat similar to how 1 human brain or natural neural network can do driving, teaching, nursing etc, reading, writing etc.
+This session aims to equip the programmer with fundamental artificial neural network programming skills. Neural networks (embedded inthe goal of AGI research) are [universal function approximators aka universal tools](https://en.wikipedia.org/wiki/Universal_approximation_theorem) that can approximate a wide variety of tasks, somewhat similar to how 1 human brain or natural neural network can do driving, teaching, nursing etc, reading, writing etc. 
+
+* Agi is likely humanity’s last invention as a type of meta solver to reasonably solve most of humanity’s issues, including the hardest Math problems, Physics problems, …. reasonably the entire landscape of cognitive thinking. 
 
 
 # Session /Dec 18, 2020/NCB
