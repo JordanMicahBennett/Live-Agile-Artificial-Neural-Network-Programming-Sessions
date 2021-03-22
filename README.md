@@ -20,7 +20,7 @@ This session aims to equip the programmer with fundamental artificial neural net
 
 # Session /Dec 18, 2020/NCB
 * Held at National Commercial Bank, with small QA team, December 18, 2020.
-
+* Held at Jamaica Artificial Intelligence Association, March 21, 2021.
 
 
 # Details: 
