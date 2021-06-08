@@ -1,6 +1,11 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
+God Bennet's works:
+* [Supersymmetric-artificial-neural-network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
+* [Cryptosynth Aeons - 1st Ai powered beings in blockchain history that anyone can hold a conversation with](https://youtu.be/5eCcOtLV0uE)
+* 
+
 # Fun note: 1000+ lines of basic neural network code were written in Java from memory/scratch by God Bennett for the session below. God can also write the same 1000+ lines of neural network code at any given time from memory/scratch, [after years of bi-annual practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). Note that memorizing this neural network code as God does, is reasonably not required, although writing one out step by step is beneficial, as discussed below.
 
 
@@ -45,3 +50,4 @@ Picture created in Gimp by God, by combining an empty brain stencil/outline, wit
 1. [A March post of mine underlining Microsoft's Joseph Albahari's basic neural network lesson](https://www.facebook.com/GodEngineer/posts/909737319485295).
 2. [Sentdex's Neural Network From scratch series](https://github.com/Sentdex/NNfSiX).
  
+
