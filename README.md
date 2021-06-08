@@ -1,7 +1,7 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
-God Bennet's works:
+God Bennett's work examples:
 * [Supersymmetric-artificial-neural-network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
 * [Cryptosynth Aeons - 1st Ai powered beings in blockchain history that anyone can hold a conversation with](https://youtu.be/5eCcOtLV0uE)
 * 
