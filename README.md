@@ -2,7 +2,7 @@
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
 Some of God Bennett's other works/roles:
-* [Manager of Artificial Intelligence at AICE via Adalabs Africa - 2021 to present](https://www.aiceafrica.com)
+* [Manager of Artificial Intelligence at AICE via Adalabs Africa - May 2021 to present](https://www.aiceafrica.com)
 * Creator of the [Supersymmetric-artificial-neural-network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
 * Creator of [Cryptosynth Aeons - 1st Ai powered beings in blockchain history that anyone can hold a conversation with](https://youtu.be/5eCcOtLV0uE)
 * Creator of [NVDIA featured smart Ai pothole detector](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano#this-project-is-featured-by-nvidia)
