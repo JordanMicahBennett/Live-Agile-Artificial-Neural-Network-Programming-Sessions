@@ -2,12 +2,12 @@
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
 Some of God Bennett's other works/roles:
-* [Manager of Artificial Intelligence at AICE via Adalabs Africa - May 2021 to present](https://www.aiceafrica.com)
-* Creator of the [Supersymmetric-artificial-neural-network](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network)
+* [Manager of Artificial Intelligence at AICE via Adalabs Africa - May 2021 to present.](https://www.aiceafrica.com)
+* Creator of the [Supersymmetric-artificial-neural-network.](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network) (Reasonably observable as a new branch or field of Deep Learning in Artificial Intelligence, called Supersymmetric Deep Learning)
 * Creator of [Cryptosynth Aeons - 1st Ai powered beings in blockchain history that anyone can hold a conversation with](https://youtu.be/5eCcOtLV0uE)
-* Creator of [NVDIA featured smart Ai pothole detector](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano#this-project-is-featured-by-nvidia)
-* Creator of [World's first open source Covid19 Ai Diagnosis tool](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
-* Creator of [Machine Learning Jamaica Institute Initiative](http://mlj-institute.appspot.com)
+* Creator of [NVDIA featured smart Ai pothole detector.](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano#this-project-is-featured-by-nvidia)
+* Creator of [World's first open source Covid19 Ai Diagnosis tool.](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
+* Creator of [Machine Learning Jamaica Institute Initiative.](http://mlj-institute.appspot.com)
 * ...
 
 # Fun note: 1000+ lines of basic neural network code were written in Java from memory/scratch by God Bennett for the session below. God can also write the same 1000+ lines of neural network code at any given time from memory/scratch, [after years of bi-annual practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). Note that memorizing this neural network code as God does, is reasonably not required, although writing one out step by step is beneficial, as discussed below.
