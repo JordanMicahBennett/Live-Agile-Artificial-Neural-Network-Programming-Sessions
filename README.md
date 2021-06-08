@@ -8,6 +8,7 @@ Some of God Bennett's other works/roles:
 * Creator of [NVDIA featured smart Ai pothole detector.](https://github.com/JordanMicahBennett/Smart-Ai-Pothole-Detector------Powered-by-Tensorflow-TensorRT-on-Google-Colab-and-or-Jetson-Nano#this-project-is-featured-by-nvidia)
 * Creator of [World's first open source Covid19 Ai Diagnosis tool.](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/README.md)
 * Creator of [Machine Learning Jamaica Institute Initiative.](http://mlj-institute.appspot.com)
+* Author of [Why is the purpose of human life to create Artificial General Intelligence?](https://www.researchgate.net/publication/319235750_Why_is_the_purpose_of_human_life_to_create_Artificial_General_Intelligence)
 * ...
 
 # Fun note: 1000+ lines of basic neural network code were written in Java from memory/scratch by God Bennett for the session below. God can also write the same 1000+ lines of neural network code at any given time from memory/scratch, [after years of bi-annual practice](https://github.com/JordanMicahBennett/NEURAL_NETWORK_PRACTICE). Note that memorizing this neural network code as God does, is reasonably not required, although writing one out step by step is beneficial, as discussed below.
