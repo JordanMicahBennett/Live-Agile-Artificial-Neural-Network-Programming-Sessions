@@ -42,6 +42,8 @@ b. Quick technical overview: [The "How"??](https://github.com/JordanMicahBennett
 # Introduction
 In an agile setting where months may not be available for data science courses, this is a reasonably optimal way of quickly getting a developer of starting or intermediate coding skills to understand overall layout of machine learning.
 
+#  Understanding these broad/fundamental neural network models from scratch without machine learning libraries, builds intuition in applying and debugging machine learning libraries.
+
 Since artificial neural networks can represent a wide variety of utilities/functions as seen in [Universal Approximation Theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem), and since neural networks power most cognitive/smart apps today, God's agile artificial intelligence/machine learning process concerns 2 topics:
 
 1.	Most basic Neural network programming in detail (in BlueJ or any IDE of choice. BlueJ is good for quickly visualizing how classes connect, as coding takes place.)
