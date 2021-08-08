@@ -28,9 +28,10 @@ This session aims to equip the programmer with fundamental artificial neural net
 * Agi is likely humanity’s last invention as a type of meta solver to reasonably solve most of humanity’s issues, including the hardest Math problems, Physics problems, …. reasonably the entire landscape of cognitive thinking. 
 
 
-# Session /Dec 18, 2020/NCB
+# Sessions 2019 to /Dec 18, 2020/NCB
+* [Held at Conference ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/).
 * Held at National Commercial Bank, with small QA team, December 18, 2020.
-* Held at Jamaica Artificial Intelligence Association, March 21, 2021.
+* [Held at Jamaica Artificial Intelligence Association, March 21, 2021](https://www.youtube.com/watch?v=8KCoQpKgzkg).
 
 
 # Details: 
