@@ -29,7 +29,7 @@ This session aims to equip the programmer with fundamental artificial neural net
 
 
 # Sessions 2019 to /Dec 18, 2020/NCB
-* [Held at Conference ITS 2019](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/). (See also [the github repository](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code))
+* Held at Conference ITS 2019. ([See the third item entitled "ITS2019 Artificial Intelligence Code Tutorial"](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/)). (See also [the github repository](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code))
 * Held at National Commercial Bank, with small QA team, December 18, 2020.
 * [Held at Jamaica Artificial Intelligence Association, March 21, 2021](https://www.youtube.com/watch?v=8KCoQpKgzkg).
 
