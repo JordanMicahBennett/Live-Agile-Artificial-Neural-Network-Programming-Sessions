@@ -9,6 +9,6 @@
 
 2. Task for Candidates: Solve the tiny issue with the neural network written in the class, and get 100 usd.
 
-3. Solution (Provided by God Bennett): 
+3. Solution (Provided by God Bennett): [Universal AI Neural Network Code - Solution](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Universal%20Ai%20Diploma%20Sessions/Universal%20Ai%20Diploma%20Neural%20Network.zip)
 
 
