@@ -2,7 +2,7 @@
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
 
-#Neural nets normally concern signals bouncing around and being transformed, starting from some problem space like the numbers in an xortable, and ending in some guess about what some output should be given some inputs. (EG: XR GATE TASK)
+# Neural nets normally concern signals bouncing around and being transformed, starting from some problem space like the numbers in an xortable, and ending in some guess about what some output should be given some inputs. (EG: XR GATE TASK)
 
 1. Loops live inside each neuron, that enable communication/calculation with other neurons
 2. Loops that organize the neurons together such that they can communicate
