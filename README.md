@@ -9,7 +9,7 @@ Agile neural network programming sessions by God Bennett, for reasonably rapid d
 3. Loops that feed sample problem data to the neural network above that tend to generate single signals, i.e. an answer to some problem
 
 
-Some of God Bennett's other works/roles:
+# Some of God Bennett's other works/roles:
 * [Manager of Artificial Intelligence at AICE via Adalabs Africa - May 2021 to present.](https://www.aiceafrica.com)
 * Creator of the [Supersymmetric-artificial-neural-network.](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network) (Reasonably observable as a new branch or field of Deep Learning in Artificial Intelligence, called Supersymmetric Deep Learning)
 * Creator of [Cryptosynth Aeons - 1st Ai powered beings in blockchain history that anyone can hold a conversation with](https://youtu.be/5eCcOtLV0uE)
