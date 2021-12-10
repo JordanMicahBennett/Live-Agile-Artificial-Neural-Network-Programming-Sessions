@@ -7,4 +7,4 @@
   * [Universal AI Neural Network Code](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Universal%20Ai%20Diploma%20Sessions/Universal%20AI%20Neural%20Network.zip)
 
 
-2. Task for Candidates: Solve the tiny issue with the neural network written in the glass, and get 100 usd.
+2. Task for Candidates: Solve the tiny issue with the neural network written in the class, and get 100 usd.
