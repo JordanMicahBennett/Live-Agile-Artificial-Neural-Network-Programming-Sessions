@@ -1,6 +1,14 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
+
+#Neural nets normally concern signals bouncing around and being transformed, starting from some problem space like the numbers in an xortable, and ending in some guess about what some output should be given some inputs. (EG: XR GATE TASK)
+
+1. Loops live inside each neuron, that enable communication/calculation with other neurons
+2. Loops that organize the neurons together such that they can communicate
+3. Loops that feed sample problem data to the neural network above that tend to generate single signals, i.e. an answer to some problem
+
+
 Some of God Bennett's other works/roles:
 * [Manager of Artificial Intelligence at AICE via Adalabs Africa - May 2021 to present.](https://www.aiceafrica.com)
 * Creator of the [Supersymmetric-artificial-neural-network.](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network) (Reasonably observable as a new branch or field of Deep Learning in Artificial Intelligence, called Supersymmetric Deep Learning)
