@@ -34,7 +34,7 @@ This session aims to equip the programmer with fundamental artificial neural net
 * [Held at Jamaica Artificial Intelligence Association, March 21, 2021](https://www.youtube.com/watch?v=8KCoQpKgzkg).
 
 # Sessions 2021, Universal Ai Diploma
-* [Universal Ai Diploma 2021 Neural Network from scratch Mandatory writing Session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/tree/main/Universal%20Ai%20Diploma%20Sessions)
+* [Universal Ai Diploma 2021 Neural Network from scratch Mandatory writing Sessions](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/tree/main/Universal%20Ai%20Diploma%20Sessions)
 
 # Details: 
 
