@@ -32,7 +32,7 @@ This session aims to equip the programmer with fundamental artificial neural net
 * Held at Conference ITS 2019. ([See the third item entitled "ITS2019 Artificial Intelligence Code Tutorial"](https://its2019.iis-international.org/program/selected-workshops-and-tutorials/)). (See also [the github repository](https://github.com/JordanMicahBennett/Live-ITS-2019-Artificial-Neural-Network-Tutorial-Code))
 * Held at National Commercial Bank, with small QA team, December 18, 2020.
 * [Held at Jamaica Artificial Intelligence Association, March 21, 2021](https://www.youtube.com/watch?v=8KCoQpKgzkg).
-
+* [Universal Ai Diploma 2021 Neural Network from scratch Mandatory writing Session](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions)
 
 # Details: 
 
