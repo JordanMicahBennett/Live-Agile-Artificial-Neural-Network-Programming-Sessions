@@ -8,3 +8,7 @@
 
 
 2. Task for Candidates: Solve the tiny issue with the neural network written in the class, and get 100 usd.
+
+3. Solution (Provided by God Bennett): 
+
+
