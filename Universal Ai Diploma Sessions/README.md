@@ -1,5 +1,9 @@
 # Universal AI Diploma Sessions
 
+# Main page
+https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions
+
+
 # Cohort1_31 Students
 
 # January 7, 2022
