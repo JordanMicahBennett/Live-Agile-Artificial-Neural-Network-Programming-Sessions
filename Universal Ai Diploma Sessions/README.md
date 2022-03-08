@@ -50,7 +50,7 @@
 # Cyclical Neural Network session (One on One), written on 2-23-2022 1pm Jamaica, by both student Jane and Lecturer God Bennett
 
 1. Code written from memory/scratch without internet during session by Lecturer God Bennett (about 1000 lines of neural network code): 
-  * [Universal AI Neural Network Code](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Universal%20Ai%20Diploma%20Sessions/BasicNeuralNetwork%20Coding_GuidingJane_byGod.zipp)
+  * [Universal AI Neural Network Code](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Universal%20Ai%20Diploma%20Sessions/BasicNeuralNetwork%20Coding_GuidingJane_byGod.zip)
 
 2. Code also written by [Jane Amondi](https://www.linkedin.com/in/janetoms-amondi-3516331b8): [Universal AI Neural Network Code - Solution](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Universal%20Ai%20Diploma%20Sessions/NUEURAL%20NETWORK.zip)
 
