@@ -67,7 +67,7 @@ https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Progr
 
 1. Code was as usual, written from memory/scratch without internet during session by Lecturer God Bennett (about 1000 lines of neural network code).
 
-2. Code also written by [Robin Khan]([https://www.linkedin.com/in/janetoms-amondi-3516331b8](https://www.instagram.com/robin.r.khan.5/)): [Universal AI Neural Network Code - Solution]([https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Universal%20Ai%20Diploma%20Sessions/NUEURAL%20NETWORK.zip](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Universal%20Ai%20Diploma%20Sessions/FundamentalNeuralnetwork-copy_sunday_5-2022.zip))
+2. Code also written by [Robin Khan](https://www.instagram.com/robin.r.khan.5/): [Universal AI Neural Network Code - Solution](https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions/blob/main/Universal%20Ai%20Diploma%20Sessions/FundamentalNeuralnetwork-copy_sunday_5-2022.zip)
 
 
 
