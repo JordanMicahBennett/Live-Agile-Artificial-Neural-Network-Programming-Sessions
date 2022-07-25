@@ -3,6 +3,10 @@
 # Main page
 https://github.com/JordanMicahBennett/Live-Agile-Artificial-Neural-Network-Programming-Sessions
 
+# Note See this [brief view of parralls that may be estalished between funadamental neural networks (typically we construct here in around 1000 lines of code without deep learning libraries) and neural networks via deep learning libraries (more easily used in around 10 lines of code) ](https://www.instagram.com/p/CfmDGz4uuMI/).
+
+
+
 
 # Cohort1_31 Students
 
