@@ -1,6 +1,10 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
+# My live youtube session (from scratch/memory):
+
+https://github.com/JordanMicahBennett/BASIC-ARTIFICIAL-NEURAL-NETWORK_FROM-LIVE-JAVA-SESSION
+
 
 # Neural nets normally concern signals bouncing around and being transformed, starting from some problem space like the numbers in an xortable, and ending in some guess about what some output should be given some inputs. (EG: XR GATE TASK)
 
