@@ -1,7 +1,7 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
-# My live youtube session (from scratch/memory):
+# 🎥🎥My live youtube session (from scratch/memory):
 
 https://github.com/JordanMicahBennett/BASIC-ARTIFICIAL-NEURAL-NETWORK_FROM-LIVE-JAVA-SESSION
 
