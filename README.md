@@ -1,6 +1,11 @@
 # Live-Agile-Artificial-Neural-Network-Programming-Sessions
 Agile neural network programming sessions by God Bennett, for reasonably rapid data science preparation.
 
+# My live youtube session (from scratch/memory):
+
+https://github.com/JordanMicahBennett/BASIC-ARTIFICIAL-NEURAL-NETWORK_FROM-LIVE-JAVA-SESSION
+
+
 Some of God Bennett's other works/roles:
 * [Manager of Artificial Intelligence at AICE via Adalabs Africa - May 2021 to present.](https://www.aiceafrica.com)
 * Creator of the [Supersymmetric-artificial-neural-network.](https://github.com/JordanMicahBennett/Supersymmetric-artificial-neural-network) (Reasonably observable as a new branch or field of Deep Learning in Artificial Intelligence, called Supersymmetric Deep Learning)
